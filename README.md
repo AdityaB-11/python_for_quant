@@ -1,6 +1,6 @@
 # Quantitative Finance Lecture Series
 
-A comprehensive set of 56 lectures covering the foundations and advanced topics in Quantitative Finance, with notebooks and videos.
+A comprehensive set of 56 lectures covering the foundations and advanced topics in Quantitative Finance.
 
 ## 🔹 Core Areas Covered
 
